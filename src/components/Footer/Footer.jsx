@@ -82,10 +82,10 @@ const Footer = () => {
 
           <Col lg="12">
             <div className="footer__bottom">
-              {/* <p className="section__description d-flex align-items-center justify-content-center gap-1 pt-4">
+              <p className="section__description d-flex align-items-center justify-content-center gap-1 pt-4">
                 <i class="ri-copyright-line"></i>Copyright {year}, Developed by
-                Fejlesztő technology . All rights reserved.
-              </p> */}
+                <a href="http://fejleszto-tech.com/" target="_blank">Fejlesztő technology </a> . All rights reserved.
+              </p>
             </div>
           </Col>
         </Row>
